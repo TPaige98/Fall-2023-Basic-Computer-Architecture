@@ -1,0 +1,5 @@
+This is a calculation of the duty cycle for a periodic pulse train
+In this example we will use (0.1) for 'logic 1 pulse duration'
+We will then use (10.1) for the Period(T) variable
+
+Duty Cycle = 0.009900990099009901
